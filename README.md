@@ -77,5 +77,3 @@ C:\Windows\System32\drivers\etc\hosts
 ```
 
 These files are examples for training; under normal circumstances, additional security settings may be required, and I am not responsible for any problems caused by arbitrary modifications to those files.
-# 3-Tier-architecture
-# 3-Tier-architecture
